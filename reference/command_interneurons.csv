@@ -1,0 +1,14 @@
+neuron,class,role,set,source
+AVAL,AVA,backward_locomotion,primary,Chalfie1985;Cook2019
+AVAR,AVA,backward_locomotion,primary,Chalfie1985;Cook2019
+AVBL,AVB,forward_locomotion,primary,Chalfie1985;Cook2019
+AVBR,AVB,forward_locomotion,primary,Chalfie1985;Cook2019
+AVDL,AVD,backward_locomotion,primary,Chalfie1985;Cook2019
+AVDR,AVD,backward_locomotion,primary,Chalfie1985;Cook2019
+AVEL,AVE,backward_locomotion,primary,Chalfie1985;Cook2019
+AVER,AVE,backward_locomotion,primary,Chalfie1985;Cook2019
+PVCL,PVC,forward_locomotion,primary,Chalfie1985;Cook2019
+PVCR,PVC,forward_locomotion,primary,Chalfie1985;Cook2019
+PVPL,PVP,forward_modulation,extended,WormAtlas
+PVPR,PVP,forward_modulation,extended,WormAtlas
+AVG,AVG,locomotion_integration,extended,WormAtlas
