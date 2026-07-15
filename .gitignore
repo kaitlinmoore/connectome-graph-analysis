@@ -1,0 +1,36 @@
+# --- data: raw sources are gitignored; provenance + download steps live in the README ---
+data/raw/
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# --- heavy analysis artifacts ---
+results/*.png
+results/*.pdf
+results/*.svg
+results/*.csv
+!results/.gitkeep
+
+# --- python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- environments ---
+.venv/
+venv/
+.uv/
+uv.lock
+
+# --- notebooks ---
+.ipynb_checkpoints/
+
+# --- os / editor ---
+.DS_Store
+.vscode/
+.idea/
